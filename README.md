@@ -22,6 +22,8 @@ The folder system, which takes folder "Code" as `src` consists of:
 
 ## Output folders
 
+⚠️ If the folder is missing any of these folders, the user manually re-create the folders before training the model (empty folders with correct name are acceptable).⚠️
+
 From 3DVisualization.ipynb
 
 - SFCNN/Best1/Best.keras: The best performance model after training.
