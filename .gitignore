@@ -3,6 +3,8 @@ Code/protein/*
 Code/ligand/*
 Code/label/*
 Code/Code.rar
+Code/.ipynb_checkpoints
+Code/*/__pycache__
 venv
 .vscode
 data.zip
