@@ -5,6 +5,8 @@ Code/label/*
 Code/Code.rar
 Code/.ipynb_checkpoints
 Code/*/__pycache__
+Code/*/*.keras
+**/log.txt
 venv
 .vscode
 data.zip
